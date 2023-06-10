@@ -4,8 +4,8 @@ spring:
       client:
         registration:
           github:
-            clientId: 40f8a76448148904221e
-            clientSecret: db2de4ffb5ea7292ed91062d028d6406baf12d08
+            clientId: GitHub-client-id
+            clientSecret: GitHub-client-secret
 
 server:
   port: 999
