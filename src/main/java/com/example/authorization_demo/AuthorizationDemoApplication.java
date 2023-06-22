@@ -11,6 +11,7 @@ public class AuthorizationDemoApplication {
 
 
 	public static void main(String[] args) {
+		System.out.println("hello world");
 		SpringApplication.run(AuthorizationDemoApplication.class, args);
 	}
 
